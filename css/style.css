@@ -133,7 +133,7 @@ ul {
 }
 .header-contacts {
   margin-left: auto;
-  display: flex;
+  /* display: flex; */
   fill: var(--main-text-color);
 }
 
