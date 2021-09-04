@@ -133,7 +133,6 @@ ul {
 }
 .header-contacts {
   margin-left: auto;
-  /* display: flex; */
   fill: var(--main-text-color);
 }
 
@@ -508,7 +507,6 @@ ul {
 .clients-link:focus {
   border: 1px solid var(--accent-color);
 }
-
 .clients-icon {
   fill: var(--icon-colour);
   transition: fill 250ms linear;
